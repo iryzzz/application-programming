@@ -1,2 +1,2 @@
-# application-programming-lab-1
+# application-programming
 Вариант 3
